@@ -1,0 +1,5 @@
+{
+  "name": "InvoiceGenius",
+  "description": "A modern, Material 3 Expressive invoice generator with live preview, persistent settings, and AI-powered text assistance.",
+  "requestFramePermissions": []
+}
